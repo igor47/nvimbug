@@ -3,4 +3,4 @@
 from typing import Optional
 
 print('hello world') 
-print(
+print()
